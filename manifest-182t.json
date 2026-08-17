@@ -1,0 +1,10 @@
+{
+  "name": "Cruise Smarts 182T",
+  "short_name": "Cruise Smarts",
+  "description": "Cessna 182T Cruise Power Calculator",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071a4a",
+  "theme_color": "#071a4a",
+  "orientation": "portrait"
+}
